@@ -69,15 +69,19 @@ In the main program, after listing the classes to import, we declared our variab
 After running through the Test Harness code and then building the main functioning code the final output is below (figure 1 - 4).
 
 ![Figure 1](https://yukkutobu777.github.io/IntroToProg-Python-Mod09/Figure9_1.png "Figure 1")
+
 Figure 1: Run of program in PyCharm
 
 ![Figure 2](https://yukkutobu777.github.io/IntroToProg-Python-Mod09/Figure9_2.png "Figure 2")
+
 Figure 2: Output file after running in PyCharm
 
 ![Figure 3](https://yukkutobu777.github.io/IntroToProg-Python-Mod09/Figure9_3.png "Figure 3")
+
 Figure 3: Run of program in command line
 
 ![Figure 4](https://yukkutobu777.github.io/IntroToProg-Python-Mod09/Figure(-4.png "Figure 4")
+
 Figure 4: Output file after running in command line
 
 
@@ -117,6 +121,7 @@ git push origin master (asked for my userid/password).
 9.	Verified new local file was pushed up to repository (See figure 5).
 
 ![Figure 5](https://yukkutobu777.github.io/IntroToProg-Python-Mod09/Figure9_5.png "Figure 5")
+
 Figure 5: List of repository on GitHub.
 
 ## Summary
