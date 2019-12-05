@@ -87,23 +87,33 @@ To date we have been creating repositories on GitHub. Last week we learned how t
 1.	Installed Git (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 2. Started the Git Bash shell
 3.	Checked version with: 
+```
 git –version
+```
 4.	Set global config variables:
+```
 git config --global user.name "Kerry Bosworth"
 git config --global user.email <input my email>
+```
 5.	Created an IntroToProg-Python-Mod09 on GitHub.
 6.	Cloned it locally.
+```
 git clone https://github.com/yukkutobu777/IntroToProg-Python-Mod09
 cd IntroToProg-Python-Mod09
+```
 7.	Went into new local directory and did some initial configuration.
+```
 git init
 vi .gitignore (exclude EmployeeData.txt and *pycache*)
+```
 8.	Checked status, did commit and then pull/push up to the remote repository.
+```
 git add -A 
 git status
 git commit -m "Added .gitignore file"
 git pull origin master
 git push origin master (asked for my userid/password).
+```
 9.	Verified new local file was pushed up to repository (See figure 5).
 
 ![Figure 5](https://yukkutobu777.github.io/IntroToProg-Python-Mod09/Figure9_5.png "Figure 5")
