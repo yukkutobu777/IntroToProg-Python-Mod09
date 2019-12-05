@@ -3,9 +3,9 @@
 **Date:** *Dec 5, 2019*  
 **Assignment:** *09*
 
-**URL** *https://github.com/yukkutobu777/IntroToProg-Python-Mod09*
+**URL** *[https://github.com/yukkutobu777/IntroToProg-Python-Mod09](https://github.com/yukkutobu777/IntroToProg-Python-Mod09)*
 
-**URL** *https://yukkutobu777.github.io/IntroToProg-Python-Mod09/*
+**URL** *[https://yukkutobu777.github.io/IntroToProg-Python-Mod09/](https://yukkutobu777.github.io/IntroToProg-Python-Mod09/)*
 
 # Inheritance
 
@@ -88,7 +88,7 @@ Figure 4: Output file after running in command line
 ## Git Command Line
 
 To date we have been creating repositories on GitHub. Last week we learned how to update them with GitHub Desktop. This week we learned Git Command line. Here are the steps to get that working.
-1.	Installed Git (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+1.	Installed Git from [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 2. Started the Git Bash shell
 3.	Checked version with: 
 ```
