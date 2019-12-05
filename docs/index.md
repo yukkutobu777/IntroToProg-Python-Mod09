@@ -46,7 +46,7 @@ else:
 
 ## Class Inheritance
 
-By default classes inherit the base object class. You can define it any of the three ways:
+By default classes inherit the base object class. You can define it any of these three ways:
 
 ```
 class Person:
@@ -99,7 +99,7 @@ git –version
 git config --global user.name "Kerry Bosworth"
 git config --global user.email "input my email"
 ```
-5.	Created an IntroToProg-Python-Mod09 on GitHub.
+5.	Created an IntroToProg-Python-Mod09 repository on GitHub.
 6.	Cloned it locally.
 ```
 git clone https://github.com/yukkutobu777/IntroToProg-Python-Mod09
@@ -126,5 +126,5 @@ Figure 5: List of repository on GitHub.
 
 ## Summary
 
-The objective of this assignment was to create and use the object class. I ran out of time to add more error handling. For example, checking to ensure the price entered was a number. We also learned how to use GitHub desktop and Git. These allow you to work on code locally and either graphically, (GitHub Desktop) or via the command line (Git) and then add and commit the code to a shared repository on the Internet.
+As more complex programs are constructed, Unified Modeling Language is a good tool to lay out the idea, map the code and determine dependencies. There are three different types of diagrams, class (shows parent/child relationship), use case (actor/system explain components) or composition (looks at objects made from classes, composition/aggregation). A combination of a three can be used on a new project as appropriate. I look forward to using those on future assignments.
 
