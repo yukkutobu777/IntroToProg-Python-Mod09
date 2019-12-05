@@ -93,7 +93,7 @@ git –version
 4.	Set global config variables:
 ```
 git config --global user.name "Kerry Bosworth"
-git config --global user.email <input my email>
+git config --global user.email "input my email"
 ```
 5.	Created an IntroToProg-Python-Mod09 on GitHub.
 6.	Cloned it locally.
