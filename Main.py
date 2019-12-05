@@ -1,10 +1,11 @@
 # ---------------------------------------------------------- #
-# Title: Listing 12
+# Title: Main script for Assignment 09
 # Description: A main module for testing
 # ChangeLog (Who,When,What):
 # RRoot,1.1.2030,Created started script
 # KBosworth,12/3/2019,Modified script to get it working
-# KBosworth,12/4/2019,Finished script
+# KBosworth,12/3/2019,Cleaned up script
+# KBosworth,12/5/2019,Finished script
 # ---------------------------------------------------------- #
 if __name__ == "__main__":
     import sys
@@ -23,7 +24,7 @@ lstOfEmployees = [] # Table of employee objects
 # Main Body of Script ----------------------------------------------------- #
 try:
     lstFileData = Fp.read_data_from_file(strFileName)  # read file data
-    for row in lstFileData:
+    for row in lstFileData: # put data in consumable format
         lstOfEmployees.append(Emp(row[0], row[1], row[2].strip()))
 
     while True:
