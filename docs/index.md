@@ -80,7 +80,7 @@ Figure 2: Output file after running in PyCharm
 
 Figure 3: Run of program in command line
 
-![Figure 4](https://yukkutobu777.github.io/IntroToProg-Python-Mod09/Figure(-4.png "Figure 4")
+![Figure 4](https://yukkutobu777.github.io/IntroToProg-Python-Mod09/Figure9-4.png "Figure 4")
 
 Figure 4: Output file after running in command line
 
